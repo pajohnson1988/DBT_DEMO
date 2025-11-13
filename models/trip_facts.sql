@@ -12,7 +12,7 @@ with TRIPS as (
  
     where ride_id <> 'ride_id'
 
-    limit 10
+
 )
 
 

@@ -10,7 +10,6 @@ date(time) as daily_weather
 
 from {{ source('demo', 'weather') }}
 
-limit 10
 
 )
 
